@@ -1,7 +1,7 @@
 # Image-Analysis-Scripts
 Scripts for various steps of the image analysis process.
 
-This current version of this repository can be cited via Zenodo: https://doi.org/10.5281/zenodo.23301431
+The current version of this repository can be cited via Zenodo: https://doi.org/10.5281/zenodo.23301431
 
 **Puncta Detection Threshold Optimization** (Groovy script for QuPath)
   - Optimizes mRNA spot-detection thresholds for Channels 1 (red) and 2 (green) using a **control** region with known expression levels.
